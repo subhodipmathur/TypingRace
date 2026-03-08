@@ -5,7 +5,7 @@ Typing Race is a high-speed, competitive multiplayer typing application that tra
 A real-time, competitive multiplayer typing game built with a modern tech stack. **TypingRace** turns a standard typing test into a high-octane arcade experience, using synchronized data to let players compete head-to-head in a neon-soaked, 3D-perspective environment.
 
 🚀 Live Demo
-**Play it here:** `https://yourusername.github.io/typing-race/`
+**Play it here:** https://typing-race-zeta.vercel.app/
 
 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (3D Transforms & Glassmorphism), Vanilla JavaScript (ES6+).
